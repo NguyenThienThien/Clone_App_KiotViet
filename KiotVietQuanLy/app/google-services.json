@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "73419454434",
+    "project_id": "kiotviet-41dbe",
+    "storage_bucket": "kiotviet-41dbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73419454434:android:a83382f2f0be6de95aebbb",
+        "android_client_info": {
+          "package_name": "com.lhb.kiotviet_quanly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1G_xysdr6aV3NanAJGB8F1ytT06845Uw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
